@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**16** solved · 12 problems · 0 labs · 4 math
+**17** solved · 13 problems · 0 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -24,6 +24,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-10-15 | [solution](problems/0121-vector-element-wise-sum) |
 | [Your first JOIN](https://www.deep-ml.com/problems/1109) | easy | 2026-10-15 | [solution](problems/1109-your-first-join) |
 | [Nth-Highest Salary with Ties and NULL](https://www.deep-ml.com/problems/1110) | medium | 2026-10-15 | [solution](problems/1110-nth-highest-salary-with-ties-and-null) |
+| [Top-3 Salaries Per Department](https://www.deep-ml.com/problems/1111) | medium | 2026-10-15 | [solution](problems/1111-top-3-salaries-per-department) |
 
 ## Math
 
